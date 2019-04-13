@@ -1,4 +1,4 @@
-# EzyVet Simple Shopping Cart
+# Simple Shopping Cart
 ![alt text](./public/img/products-screenshot.png "Products")
 
 ![alt text](./public/img/cart-screenshot.png "Products")
